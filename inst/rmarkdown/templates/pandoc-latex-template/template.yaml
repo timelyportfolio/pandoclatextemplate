@@ -1,0 +1,4 @@
+name: Pandoc-Latex-Template
+description: >
+   Rmarkdown template for pandoc-latex-template
+create_dir: FALSE
